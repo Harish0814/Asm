@@ -1,0 +1,3 @@
+Claim{id='c-4613106', claimDate=2024-04-07, insuredPerson='John Doe', cardNumber='1234567890', examDate=2024-04-07, documents=[], claimAmount=1000.0, status='New', receiverBankingInfo='BankX - John Doe - 123456'}
+Claim{id='c-4523651', claimDate=2024-04-07, insuredPerson='Jane Doe', cardNumber='2345678901', examDate=2024-04-07, documents=[], claimAmount=1500.0, status='Processing', receiverBankingInfo='BankY - Jane Doe - 234567'}
+Claim{id='c-1234567', claimDate=2024-04-07, insuredPerson='hbfhj', cardNumber='1234567891', examDate=2000-01-01, documents=[], claimAmount=10000.0, status='Processing', receiverBankingInfo='HDFC - 4tughi5u - 123456'}
